@@ -1,0 +1,16 @@
+{
+  "name": "event-badges",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "qrcode.react": "^3.1.0",
+    "bs58": "^5.0.0",
+    "@upstash/redis": "^1.34.0",
+    "@metaplex-foundation/umi": "^1.0.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.0.0",
+    "@metaplex-foundation/mpl-core": "^1.1.1"
+  }
+}
